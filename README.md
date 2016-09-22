@@ -1,0 +1,1 @@
+# android_bootable_recovery-android-7.0-2
